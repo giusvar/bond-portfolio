@@ -7,7 +7,7 @@ on:
       - titoli.json
   schedule:
    - cron: "3,13,23,33,43,53 7-17 * * 1-5"
-    - cron: "37 19 * * 1-5"
+   - cron: "37 19 * * 1-5"
 
 permissions:
   contents: write
