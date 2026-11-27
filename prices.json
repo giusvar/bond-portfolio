@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T10:47:47.278Z",
+ "updated": "2026-11-27T10:56:02.857Z",
  "prices": {
   "DE0001135275": {
    "nome": "Bund Gen37 Eur 4",
@@ -9,14 +9,14 @@
   },
   "XS2647979181": {
    "nome": "Eib Tf 3% Lg33 Eur",
-   "prezzo": "97,6",
-   "variazione": "+0,00%",
+   "prezzo": "97,64",
+   "variazione": "+0,04%",
    "ok": true
   },
   "FR001400QMF9": {
    "nome": "Oat Fx 3% Nov34 Eur",
-   "prezzo": "90,00",
-   "variazione": "+0,09%",
+   "prezzo": "90,15",
+   "variazione": "+0,26%",
    "ok": true
   },
   "ES0000012P33": {
@@ -27,8 +27,8 @@
   },
   "IT0005442089": {
    "nome": "Btp Futura Ap37 Eur",
-   "prezzo": "76,65",
-   "variazione": "+0,07%",
+   "prezzo": "76,67",
+   "variazione": "+0,09%",
    "ok": true
   },
   "IT0005491250": {
@@ -39,8 +39,8 @@
   },
   "IT0005518128": {
    "nome": "Btp Tf 4,40% Mg33 Eur",
-   "prezzo": "102,58",
-   "variazione": "-0,01%",
+   "prezzo": "102,62",
+   "variazione": "+0,03%",
    "ok": true
   },
   "IT0005547390": {
@@ -57,8 +57,8 @@
   },
   "IT0005594483": {
    "nome": "Btp Valore Sc Mg30 Eur",
-   "prezzo": "100,22",
-   "variazione": "-0,03%",
+   "prezzo": "100,21",
+   "variazione": "-0,04%",
    "ok": true
   },
   "LU1681047236": {
@@ -93,8 +93,8 @@
   },
   "IT0005218380": {
    "nome": "Banco Bpm",
-   "prezzo": "13,74",
-   "variazione": "+1,66%",
+   "prezzo": "13,76",
+   "variazione": "+1,81%",
    "ok": true
   },
   "IT0005696338": {
@@ -110,10 +110,10 @@
    "ok": true
   },
   "IT0005713539": {
-   "nome": "",
-   "prezzo": "",
-   "variazione": "",
-   "ok": false
+   "nome": "Btp Italia Si' Jun31 Eur",
+   "prezzo": "100,13",
+   "variazione": "-0,02%",
+   "ok": true
   }
  }
 }
