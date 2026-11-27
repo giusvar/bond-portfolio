@@ -2,7 +2,9 @@
 // Logica portata da bond_portfolio_v4_ip156.ino (nome, prezzo, variazione).
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
 
-const ISINS = ["DE0001135275","XS2647979181","FR001400QMF9","ES0000012P33","IT0005442089","IT0005491250","IT0005518128","IT0005547390","IT0005583478","IT0005594483","LU1681047236","IT0000380706","IT0003409213","IT0004097405","IT0005379083","IT0005218380","IT0005696338","IT0005684888","IT0005713539"];
+const ISINS = JSON.parse(readFileSync("titoli.json", "utf8"))
+  .filter((i) => typeof i === "string" && /^[A-Z]{2}[A-Z0-9]{9}[0-9]$/.test(i));
+if (ISINS.length === 0) { console.error("titoli.json vuoto o non valido"); process.exit(1); }
 
 const B = "https://www.borsaitaliana.it/borsa/";
 const BTP = (c) => `${B}obbligazioni/mot/btp/scheda/${c}-MOTX.html?lang=it`;
