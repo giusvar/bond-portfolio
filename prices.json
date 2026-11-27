@@ -1,0 +1,120 @@
+{
+ "_test": true,
+ "updated": "2026-11-27T10:00:00+01:00",
+ "prices": {
+  "DE0001135275": {
+   "nome": "TITOLO DI PROVA 01",
+   "prezzo": "101,25",
+   "variazione": "+0,12%",
+   "ok": true
+  },
+  "XS2647979181": {
+   "nome": "TITOLO DI PROVA 02",
+   "prezzo": "99,80",
+   "variazione": "-0,08%",
+   "ok": true
+  },
+  "FR001400QMF9": {
+   "nome": "TITOLO DI PROVA 03",
+   "prezzo": "102,40",
+   "variazione": "+0,25%",
+   "ok": true
+  },
+  "ES0000012P33": {
+   "nome": "TITOLO DI PROVA 04",
+   "prezzo": "100,15",
+   "variazione": "+0,03%",
+   "ok": true
+  },
+  "IT0005442089": {
+   "nome": "TITOLO DI PROVA 05",
+   "prezzo": "98,70",
+   "variazione": "-0,15%",
+   "ok": true
+  },
+  "IT0005491250": {
+   "nome": "TITOLO DI PROVA 06",
+   "prezzo": "103,10",
+   "variazione": "+0,30%",
+   "ok": true
+  },
+  "IT0005518128": {
+   "nome": "TITOLO DI PROVA 07",
+   "prezzo": "101,90",
+   "variazione": "+0,10%",
+   "ok": true
+  },
+  "IT0005547390": {
+   "nome": "TITOLO DI PROVA 08",
+   "prezzo": "100,55",
+   "variazione": "-0,02%",
+   "ok": true
+  },
+  "IT0005583478": {
+   "nome": "TITOLO DI PROVA 09",
+   "prezzo": "99,35",
+   "variazione": "+0,07%",
+   "ok": true
+  },
+  "IT0005594483": {
+   "nome": "TITOLO DI PROVA 10",
+   "prezzo": "104,20",
+   "variazione": "+0,41%",
+   "ok": true
+  },
+  "LU1681047236": {
+   "nome": "TITOLO DI PROVA 11",
+   "prezzo": "152,30",
+   "variazione": "-0,63%",
+   "ok": true
+  },
+  "IT0000380706": {
+   "nome": "TITOLO DI PROVA 12",
+   "prezzo": "12,45",
+   "variazione": "+0,52%",
+   "ok": true
+  },
+  "IT0003409213": {
+   "nome": "TITOLO DI PROVA 13",
+   "prezzo": "8,76",
+   "variazione": "-0,34%",
+   "ok": true
+  },
+  "IT0004097405": {
+   "nome": "TITOLO DI PROVA 14",
+   "prezzo": "15,32",
+   "variazione": "+0,18%",
+   "ok": true
+  },
+  "IT0005379083": {
+   "nome": "TITOLO DI PROVA 15",
+   "prezzo": "21,08",
+   "variazione": "+0,00%",
+   "ok": false
+  },
+  "IT0005218380": {
+   "nome": "TITOLO DI PROVA 16",
+   "prezzo": "3,412",
+   "variazione": "+1,20%",
+   "ok": true
+  },
+  "IT0005696338": {
+   "nome": "TITOLO DI PROVA 17",
+   "prezzo": "100,80",
+   "variazione": "-0,05%",
+   "ok": true
+  },
+  "IT0005684888": {
+   "nome": "TITOLO DI PROVA 18",
+   "prezzo": "101,05",
+   "variazione": "+0,09%",
+   "ok": true
+  },
+  "IT0005713539": {
+   "nome": "TITOLO DI PROVA 19",
+   "prezzo": "99,95",
+   "variazione": "+0,14%",
+   "ok": true
+  }
+ }
+}
