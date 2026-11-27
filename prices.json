@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T11:04:28.036Z",
+ "updated": "2026-11-27T11:11:29.727Z",
  "prices": {
   "DE0001135275": {
    "nome": "Bund Gen37 Eur 4",
@@ -27,8 +27,8 @@
   },
   "IT0005442089": {
    "nome": "Btp Futura Ap37 Eur",
-   "prezzo": "76,70",
-   "variazione": "+0,13%",
+   "prezzo": "76,72",
+   "variazione": "+0,16%",
    "ok": true
   },
   "IT0005491250": {
@@ -45,20 +45,20 @@
   },
   "IT0005547390": {
    "nome": "Btp Valore Gn27 Eur",
-   "prezzo": "100,427",
-   "variazione": "+0,01%",
+   "prezzo": "100,428",
+   "variazione": "+0,02%",
    "ok": true
   },
   "IT0005583478": {
    "nome": "Btp Valore Sc Mz30 Eur",
-   "prezzo": "100,62",
-   "variazione": "+0,03%",
+   "prezzo": "100,64",
+   "variazione": "+0,05%",
    "ok": true
   },
   "IT0005594483": {
    "nome": "Btp Valore Sc Mg30 Eur",
-   "prezzo": "100,26",
-   "variazione": "+0,01%",
+   "prezzo": "100,27",
+   "variazione": "+0,02%",
    "ok": true
   },
   "LU1681047236": {
@@ -93,14 +93,14 @@
   },
   "IT0005218380": {
    "nome": "Banco Bpm",
-   "prezzo": "13,76",
-   "variazione": "+1,81%",
+   "prezzo": "13,81",
+   "variazione": "+2,18%",
    "ok": true
   },
   "IT0005696338": {
    "nome": "Btp Valore Sc Mar32 Eur",
-   "prezzo": "96,47",
-   "variazione": "-0,02%",
+   "prezzo": "96,52",
+   "variazione": "+0,03%",
    "ok": true
   },
   "IT0005684888": {
