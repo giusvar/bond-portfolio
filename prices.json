@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T11:11:29.727Z",
+ "updated": "2026-11-27T12:32:12.752Z",
  "prices": {
   "DE0001135275": {
    "nome": "Bund Gen37 Eur 4",
@@ -15,8 +15,8 @@
   },
   "FR001400QMF9": {
    "nome": "Oat Fx 3% Nov34 Eur",
-   "prezzo": "90,15",
-   "variazione": "+0,26%",
+   "prezzo": "90,23",
+   "variazione": "+0,34%",
    "ok": true
   },
   "ES0000012P33": {
@@ -27,26 +27,26 @@
   },
   "IT0005442089": {
    "nome": "Btp Futura Ap37 Eur",
-   "prezzo": "76,72",
-   "variazione": "+0,16%",
+   "prezzo": "76,76",
+   "variazione": "+0,21%",
    "ok": true
   },
   "IT0005491250": {
    "nome": "Cct-Eu Tv Eur6m+0,75% Ot30 Eur",
-   "prezzo": "100,94",
-   "variazione": "+0,13%",
+   "prezzo": "100,89",
+   "variazione": "+0,08%",
    "ok": true
   },
   "IT0005518128": {
    "nome": "Btp Tf 4,40% Mg33 Eur",
-   "prezzo": "102,63",
-   "variazione": "+0,04%",
+   "prezzo": "102,70",
+   "variazione": "+0,11%",
    "ok": true
   },
   "IT0005547390": {
    "nome": "Btp Valore Gn27 Eur",
-   "prezzo": "100,428",
-   "variazione": "+0,02%",
+   "prezzo": "100,425",
+   "variazione": "+0,01%",
    "ok": true
   },
   "IT0005583478": {
@@ -57,14 +57,14 @@
   },
   "IT0005594483": {
    "nome": "Btp Valore Sc Mg30 Eur",
-   "prezzo": "100,27",
-   "variazione": "+0,02%",
+   "prezzo": "100,26",
+   "variazione": "+0,01%",
    "ok": true
   },
   "LU1681047236": {
    "nome": "Amundi Core Euro Stoxx 50 Ucits Etf Eur Acc",
-   "prezzo": "164,42",
-   "variazione": "+1,28%",
+   "prezzo": "163,94",
+   "variazione": "+0,99%",
    "ok": true
   },
   "IT0000380706": {
@@ -93,19 +93,19 @@
   },
   "IT0005218380": {
    "nome": "Banco Bpm",
-   "prezzo": "13,81",
-   "variazione": "+2,18%",
+   "prezzo": "13,79",
+   "variazione": "+2,03%",
    "ok": true
   },
   "IT0005696338": {
    "nome": "Btp Valore Sc Mar32 Eur",
-   "prezzo": "96,52",
-   "variazione": "+0,03%",
+   "prezzo": "96,66",
+   "variazione": "+0,18%",
    "ok": true
   },
   "IT0005684888": {
    "nome": "Bot Zc Dec26 A Eur",
-   "prezzo": "99,911",
+   "prezzo": "99,907",
    "variazione": "+0,03%",
    "ok": true
   },
