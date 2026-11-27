@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T17:47:36.117Z",
+ "updated": "2026-11-27T22:52:46.297Z",
  "prices": {
   "DE0001135275": {
    "nome": "Bund Gen37 Eur 4",
@@ -21,7 +21,7 @@
   },
   "ES0000012P33": {
    "nome": "Obligaciones Fx 3.2% Oct35 Eur",
-   "prezzo": "95,78",
+   "prezzo": "95,96",
    "variazione": "+0,00%",
    "ok": true
   },
