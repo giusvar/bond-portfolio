@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-27T10:56:02.857Z",
+ "updated": "2026-11-27T11:04:28.036Z",
  "prices": {
   "DE0001135275": {
    "nome": "Bund Gen37 Eur 4",
-   "prezzo": "106,16",
-   "variazione": "+0,00%",
+   "prezzo": "106,00",
+   "variazione": "-0,15%",
    "ok": true
   },
   "XS2647979181": {
@@ -27,20 +27,20 @@
   },
   "IT0005442089": {
    "nome": "Btp Futura Ap37 Eur",
-   "prezzo": "76,67",
-   "variazione": "+0,09%",
+   "prezzo": "76,70",
+   "variazione": "+0,13%",
    "ok": true
   },
   "IT0005491250": {
    "nome": "Cct-Eu Tv Eur6m+0,75% Ot30 Eur",
-   "prezzo": "100,89",
-   "variazione": "+0,08%",
+   "prezzo": "100,94",
+   "variazione": "+0,13%",
    "ok": true
   },
   "IT0005518128": {
    "nome": "Btp Tf 4,40% Mg33 Eur",
-   "prezzo": "102,62",
-   "variazione": "+0,03%",
+   "prezzo": "102,63",
+   "variazione": "+0,04%",
    "ok": true
   },
   "IT0005547390": {
@@ -57,8 +57,8 @@
   },
   "IT0005594483": {
    "nome": "Btp Valore Sc Mg30 Eur",
-   "prezzo": "100,21",
-   "variazione": "-0,04%",
+   "prezzo": "100,26",
+   "variazione": "+0,01%",
    "ok": true
   },
   "LU1681047236": {
@@ -105,14 +105,14 @@
   },
   "IT0005684888": {
    "nome": "Bot Zc Dec26 A Eur",
-   "prezzo": "99,906",
-   "variazione": "+0,02%",
+   "prezzo": "99,911",
+   "variazione": "+0,03%",
    "ok": true
   },
   "IT0005713539": {
    "nome": "Btp Italia Si' Jun31 Eur",
-   "prezzo": "100,13",
-   "variazione": "-0,02%",
+   "prezzo": "100,08",
+   "variazione": "-0,07%",
    "ok": true
   }
  }
