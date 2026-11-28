@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T22:52:46.297Z",
+ "updated": "2026-11-28T02:08:37.337Z",
  "prices": {
   "DE0001135275": {
    "nome": "Bund Gen37 Eur 4",
@@ -69,26 +69,26 @@
   },
   "IT0000380706": {
    "nome": "Anima Visconteo A",
-   "prezzo": "54,152",
-   "variazione": "-0,32%",
+   "prezzo": "54,413",
+   "variazione": "+0,48%",
    "ok": true
   },
   "IT0003409213": {
    "nome": "Etica Bilanciato R",
-   "prezzo": "16,647",
-   "variazione": "-0,04%",
+   "prezzo": "16,698",
+   "variazione": "+0,31%",
    "ok": true
   },
   "IT0004097405": {
    "nome": "Etica Azionario R",
-   "prezzo": "17,841",
-   "variazione": "-0,12%",
+   "prezzo": "17,916",
+   "variazione": "+0,42%",
    "ok": true
   },
   "IT0005379083": {
    "nome": "Anima Azionario Globale Ex Emu A",
-   "prezzo": "10,073",
-   "variazione": "-0,35%",
+   "prezzo": "10,075",
+   "variazione": "+0,02%",
    "ok": true
   },
   "IT0005218380": {
